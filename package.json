@@ -1,0 +1,58 @@
+{
+  "_args": [
+    [
+      "git+https://github.com/growingio/react-native-growingio.git#0.0.7",
+      "/Users/zhanhang/project/dataplus/dataplus-react-native-app-3"
+    ]
+  ],
+  "_from": "git+https://github.com/growingio/react-native-growingio.git#0.0.7",
+  "_id": "react-native-growingio@git+https://github.com/growingio/react-native-growingio.git#8bb41e20904858a9301a364412301ef84f1a37bc",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/react-native-growingio",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "git+https://github.com/growingio/react-native-growingio.git#0.0.7",
+    "rawSpec": "git+https://github.com/growingio/react-native-growingio.git#0.0.7",
+    "saveSpec": "git+https://github.com/growingio/react-native-growingio.git#0.0.7",
+    "fetchSpec": "https://github.com/growingio/react-native-growingio.git",
+    "gitCommittish": "0.0.7"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/growingio/react-native-growingio.git#8bb41e20904858a9301a364412301ef84f1a37bc",
+  "_spec": "git+https://github.com/growingio/react-native-growingio.git#0.0.7",
+  "_where": "/Users/zhanhang/project/dataplus/dataplus-react-native-app-3",
+  "author": {
+    "name": "gaoguanling",
+    "email": "gaoguanling@growingio.com"
+  },
+  "bugs": {
+    "url": "https://github.com/growingio/react-native-growingio/issues"
+  },
+  "description": "GrowingIO SDK for ReactNative",
+  "files": [
+    "ios",
+    "docs",
+    "scripts",
+    "src",
+    "GrowingReactNativeTrackKit.podspec"
+  ],
+  "homepage": "https://www.growingio.com/",
+  "keywords": [
+    "IOS",
+    "ReactNative",
+    "GrowingIO",
+    "SDK"
+  ],
+  "license": "MIT",
+  "main": "src/index.js",
+  "name": "react-native-growingio",
+  "repository": {
+    "url": "git+https://github.com/growingio/react-native-growingio.git",
+    "type": "git"
+  },
+  "version": "0.0.7"
+}
